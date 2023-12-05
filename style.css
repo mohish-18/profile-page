@@ -1,0 +1,39 @@
+body{
+    background-image: url(pr1.webp);
+    
+}
+.h{
+    color: cornsilk;
+    text-align: center;
+}
+.pp{
+    color: cornsilk;
+    text-align: center;
+    font-size: large;
+}
+.img{
+    align-items: center;
+    width: 500px;
+    height: 75px;
+    padding-left: 350px;
+    padding-top: 50px;
+}
+.dd{
+    color: cornsilk;
+    padding-left: 900px;
+    gap: 20px;
+    display: flex;
+}
+.d1{
+    border: 3px solid beige;
+    box-sizing: border-box;
+    border-width: 50px;
+    
+}
+.pr:hover{
+    color: brown;
+    gap: 20px;
+}
+.pr{
+    text-decoration: underline;
+}
